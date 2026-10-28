@@ -1,0 +1,25 @@
+CLOUD COMPUTING
+
+Introduction
+
+Cloud computing is a technology that allows users to store, access, and manage data and applications over the internet instead of relying only on their own computers.
+
+Examples of Cloud Computing
+
+Google Drive – Used to store files online.
+
+Microsoft OneDrive – Used to save and access documents online.
+
+Google Classroom – Used to share learning materials and assignments.
+
+Online video platforms – Used to watch educational videos over the internet.
+
+Advantages of Cloud Computing
+
+Files can be accessed from different devices.
+
+Files can be shared easily with others.
+
+It supports collaboration between students and teachers.
+
+It reduces the need to store every file on a single computer.
